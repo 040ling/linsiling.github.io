@@ -2,4 +2,4 @@ I graduated from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) [Micr
 
 I am lucky to be guided by [Professor Haibao Chen] of the Smart Vision Lab of the [School of Microelectronics Science and Engineering](https://dmne.sjtu.edu.cn/dmne/) at Shanghai Jiao Tong University. Currently, I am working in the company on research on algorithms related to image and video generation and inference acceleration
 
-[Email](linsiling0400@gmail.com) / [Github](https://github.com/040ling) /
+[Email](mailto:linsiling0400@gmail.com) / [Github](https://github.com/040ling) /
