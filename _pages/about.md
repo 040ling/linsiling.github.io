@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,6 +12,6 @@ I graduated from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) [Micr
 I am lucky to be guided by [Professor Haibao Chen] of the Smart Vision Lab of the [School of Microelectronics Science and Engineering](https://dmne.sjtu.edu.cn/dmne/) at Shanghai Jiao Tong University. Currently, I am working in the company on research on algorithms related to image and video generation and inference acceleration
 
 [Email](mailto:linsiling0400@gmail.com) / [Github](https://github.com/040ling) /
-![Editing a markdown file for a talk](/images/editing-talk.png)
+
 
 
